@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+// const fs = require('fs')
+
+// const landingPage = fs.readSync(`${__dirname}/templates/template-overview.html`, 'utf-8')
 
 function App() {
   return (
